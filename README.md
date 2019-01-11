@@ -21,11 +21,11 @@
 * **url地址**：https://github.com/zoujinbin/RCB
 * 新增相应的release版本号,确保新增的版本号大于手机端已安装app的版本号
 1. 点击下图红色方框的releases
-![image](https://github.com/zoujinbin/RCB/raw/master/Github1.jpg)
+![image](./Github1.jpg)
 
 2.点击下图红色方框的*Draft a new release*，新建1.1.4版本号 ，可参考其他release
-![image](https://github.com/zoujinbin/RCB/raw/master/Github2.jpg)
-![image](https://github.com/zoujinbin/RCB/raw/master/Github3.jpg)
+![image](./Github2.jpg)
+![image](./Github3.jpg)
 
 
 ## 上传蒲公英
